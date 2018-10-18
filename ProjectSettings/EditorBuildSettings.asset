@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu do Jogo.unity
+    guid: 2249e206b46cf8440a6f870f0b1ba1f7
+  - enabled: 1
+    path: "Assets/Scenes/Jogo da Mem\xF3ria.unity"
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects: {}
